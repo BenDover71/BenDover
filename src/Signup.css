@@ -1,0 +1,27 @@
+
+.nye{
+    background-image: url("/public/images/poli.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+    margin: 0;
+
+
+}
+.hui{
+    background-image: url("/public/images/poli.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;   
+
+}
+.ujit{
+    max-height: 50vh;
+    padding-bottom: 40px;
+}
