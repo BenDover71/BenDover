@@ -22,7 +22,7 @@ const Signin = () => {
             data.append("password",password)
             
             const response=await axios.post(
-                "https://nickson25.pythonanywhere.com/api/sign in",
+                "https://nickson25.pythonanywhere.com/api/signin",
                 data
             )
 
